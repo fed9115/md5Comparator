@@ -1,0 +1,11 @@
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/agc/libcontrol_panel_api.so
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/agc/libcontrol_search.so
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/agc/optlddist
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/.DS_Store
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/rcs.conf
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/report_manager.bat
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/restart_sophic_complete.sh
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/rmlog.sh
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/rmshare.sh
+/Users/hathbutterfly/2019NR暑假实习/未命名文件夹/C/base/test.sh
+一共有 10 个文件
